@@ -4,5 +4,8 @@
   "memory": 128,
   "timeout": 60,
   "role": "{{YOUR_ROLE}}",
-  "environment": {}
+  "environment": {
+      "IQOS_LOGIN_ID": "{{YOUR_LOGIN_ID}}",
+      "IQOS_PASSWORD": "{{YOUR_PASSWORD}}"
+  }
 }
