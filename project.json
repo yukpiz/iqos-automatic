@@ -1,0 +1,8 @@
+{
+  "name": "iqos-automatic",
+  "description": "none",
+  "memory": 128,
+  "timeout": 60,
+  "role": "{{YOUR_ROLE}}",
+  "environment": {}
+}
