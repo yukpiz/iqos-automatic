@@ -6,7 +6,7 @@ $ go get github.com/sclevine/agouti
 $ go run functions/iqos-automatic/main.go -debug -u {{YOUR_LOGIN_ID} -p {{YOUR_PASSWORD}}
 ```
 
-# Running AWS Lambda
+# Run on AWS Lambda
 
 please complete your configuration file(project.json).
 
